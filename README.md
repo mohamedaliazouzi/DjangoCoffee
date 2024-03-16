@@ -1,5 +1,7 @@
 # DjangoCoffee
-
+<p align="center" border="none">
+  <img alt="DjangoCoffee" src="./Django.png" align="center">
+</p>
 Hey there! 👋 Welcome this little github corner dedicated to all Django things ! Whether you're a seasoned developer or just getting started, this is the place to share your problems,specific errors you got while developing a Django project, ask for help, or pitch in to make Dev with Django even better.
 
 ## How to Contribute
