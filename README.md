@@ -2,7 +2,7 @@
 <p align="center" border="none">
   <img alt="DjangoCoffee" src="./Django.png" align="center">
 </p>
-Hey there! 👋 Welcome this little github corner dedicated to all Django things ! Whether you're a seasoned developer or just getting started, this is the place to share your problems,specific errors you got while developing a Django project, ask for help, or pitch in to make Dev with Django even better.
+Hey there! 👋 Welcome this little github corner dedicated to all Django things ! Whether you're a seasoned developer or just getting started, this is the place to share :your problems,specific errors you got while developing a Django based project,solutions to others issues,a solution to a specific problem you solved, ask for help, or pitch in to make Dev with Django even easier by mentioning best Practices .
 
 ## How to Contribute
 
@@ -18,6 +18,8 @@ If you're facing a problem while developing a Django app , please submit an issu
 
 4. **Be Respectful**: Remember to be respectful and courteous to others in your interactions. We're all here to collaborate and help each other.
 
-5. ## License
+### Please use English while commenting or subimitting an issue this to make sure everyone get advantage 
+
+6. ## License
 
 This repository is licensed under the [MIT License](LICENSE).
