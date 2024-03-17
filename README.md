@@ -18,8 +18,8 @@ If you're facing a problem while developing a Django app , please submit an issu
 
 4. **Be Respectful**: Remember to be respectful and courteous to others in your interactions. We're all here to collaborate and help each other.
 
-### Please use English while commenting or subimitting an issue this to make sure everyone get advantage 
+### Please use English while commenting or subimitting an issue to make sure everyone gain knowledge .
 
-6. ## License
+## License
 
 This repository is licensed under the [MIT License](LICENSE).
