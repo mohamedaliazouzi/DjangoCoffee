@@ -18,7 +18,18 @@ If you're facing a problem while developing a Django app , please submit an issu
 
 4. **Be Respectful**: Remember to be respectful and courteous to others in your interactions. We're all here to collaborate and help each other.
 
-### Please use English while commenting or subimitting an issue to make sure everyone gain knowledge .
+#### Please use English while commenting or subimitting an issue to make sure everyone gain knowledge .
+
+### Contributing with problems , solutions or guides 
+
+If you're eager to contribute by sharing issues, solutions, or even small tutorials, follow these steps:
+
+1. **Fork the Repository**: Fork this repository to your own GitHub account.
+
+2. **Create a Branch**: Create a new branch in your forked repository .
+
+3. **Submit a Pull Request**: Once your changes are ready, submit a pull request to this repository. Be sure to provide a clear simple description on your readme.md .
+
 
 ## License
 
